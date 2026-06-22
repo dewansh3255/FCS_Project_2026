@@ -291,8 +291,7 @@ Academic project developed for Foundations of Computer Security course at IIIT D
 ---
 
 ## Contact
-
-**Project Lead:** Dewansh Khandelwal  
+  
 **Email:** dewansh25067@iiitd.ac.in  
 **Institution:** IIIT Delhi
 
